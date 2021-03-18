@@ -19,6 +19,7 @@ Group 1. Basic Mathematical Concepts
 	15.	Cross-Entropy (also consider relationship with KL divergence): (확률분포로 된) 어떤 문제 p에 대해 (확률분포로 된) 특정 전략 q을 쓸 때 예측한 기댓값. 머신러닝에서 학습을 통해 p에 가까워질 수로 cross entropy 값은 작아지게 된다.
 
 Group 2. Deep Learning Theory
+
 	1.	Artificial Neuron: 생물학의 신경망을 본따서 만든 머신 러닝의 인공 신경망. 예시 모형 중에는 ‘Perceptron (퍼셉트론)’ 등이 있다.
 	2.	Activation function (활성화 함수): 입력값에 대한 출력값을 활성화해주는 함수. 예시로는 Sigmoid, Leaky ReLU, tanh, Maxout, ReLU, ELU 등이 있다.
 	3.	Weight (of neural network) (가중치): 각각의 입력신호에 부여된 고유한 숫자. 입력 데이터가 결과 출력에 주는 영향도를 조절하는 매개변수다. Wx+b의 ‘W’.
@@ -38,6 +39,7 @@ Group 2. Deep Learning Theory
 	17.	Learning rate(학습률): W의 값을 변경할 때, 얼마나 크게 변경하는지.
 
 Group 3. Deep Learning in Practice
+
 	1.	Training dataset (학습 데이터): 결과 예측을 하는 모델을 학습시키기 위해 사용하는 데이터셋
 	2.	Validation dataset: 학습이 완료된 모델을 검증하기 위한 데이터셋
 	3.	Testing dataset: 모델이 얼마나 잘 작동하는지 판별하는 데이터셋. 최종 성능 평가용.
