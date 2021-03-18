@@ -1,6 +1,7 @@
 # Study
 
 Group 1. Basic Mathematical Concepts
+
 	1.	Scalar(스칼라): 차원이 없는 값
 	2.	Vector(벡터): 1차원으로 구성된 값
 	3.	Matrix: 2차원으로 구성된 값
